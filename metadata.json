@@ -1,0 +1,6 @@
+{
+  "name": "CaptionCraft AI - Video Caption Generator & Subtitle Studio",
+  "description": "Full-length AI video transcription, synchronized interactive timeline editor, custom subtitle styling, and multi-format video & subtitle export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
